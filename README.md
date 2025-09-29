@@ -1,30 +1,7 @@
-#  bada-project
+<!-- 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fysseo29%2Fhit-counter&count_bg=%23D3AC97&title_bg=%234FBFD9&icon=&icon_color=%23F7F5F5&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+-->
 
-[![Issues](https://img.shields.io/github/issues/your-username/your-repo)](https://github.com/your-username/your-repo/issues)
-[![Forks](https://img.shields.io/github/forks/your-username/your-repo)](https://github.com/your-username/your-repo/fork)
-[![Stars](https://img.shields.io/github/stars/your-username/your-repo)](https://github.com/your-username/your-repo/stargazers)
-[![Licence](https://img.shields.io/github/license/your-username/your-repo)](./LICENSE)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fysseo29?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 
-**bada-project**는 어쩌구 저쩌구...를 위한 멋진 프로젝트입니다.  
-이 프로젝트를 통해 무엇을 할 수 있는지 간결하게 설명해주세요!
-
-## ✨ 주요 기능 (Features)
-
-- **기능 1**: 사용자가 쉽게 이해할 수 있도록 핵심 기능을 작성합니다.
-- **기능 2**: 직관적인 아이콘을 사용하면 가독성이 좋아집니다. (예: ✨, 🚀, ✅)
-- **기능 3**: 간결하고 명확하게 작성하는 것이 중요합니다.
-
-## 🚀 시작하기 (Getting Started)
-
-프로젝트를 로컬 환경에서 실행하는 방법을 안내합니다.
-
-### 필요 사양 (Prerequisites)
-
-- Node.js >= 14.0.0
-- npm or yarn
-
-### 설치 (Installation)
-
-1. 저장소 복제
-   ```sh
-   git clone [https://github.com/your-username/your-repo.git](https://github.com/your-username/your-repo.git)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysseo29&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)

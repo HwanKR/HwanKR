@@ -12,30 +12,39 @@
 
 <h3 align="center">🛠️ My Tech Stack</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3"/>
   <br>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" alt="Next.js"/>
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="AWS"/>
 </div>
 
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HwanKr&show_icons=true&theme=tokyonight" alt="[Your-GitHub-Username]'s GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HwanKr&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <table>
+    <tr>
+      <td valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api?username=HwanKR&show_icons=true&theme=tokyonight&card_width=450" alt="HwanKR's GitHub stats"/>
+      </td>
+      <td valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HwanKR&theme=tokyonight&card_width=450&langs_count=3" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 <h3 align="center">🤝 Connect with Me</h3>
 <div align="center">
-  <a href="mailto:[your-email@example.com]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/[your-linkedin-id]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+  <a href="mailto:fabronjeon@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
+  <a href="mailto:fabronjeon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
   <a href="[https://your-blog.com]"><img src="https://img.shields.io/badge/Blog-1e90ff?style=for-the-badge&logo=Blogger&logoColor=white"></a>
 </div>
 

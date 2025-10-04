@@ -1,53 +1,44 @@
 <div align="center">
-  <a href="https://github.com/[Your-GitHub-Username]">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!&fontSize=90" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=280&section=header&text=Hey, I'm [Your Name]!&fontSize=70&animation=fadeIn" />
 </div>
 
+### 👨‍💻 About Me
+- 🎓 I'm a student developer based in [Your City, Country].
+- 🌱 I’m currently learning everything about [Your Main Interest, e.g., Cloud Computing, AI].
+- 🚀 My goal is to become a proficient [Your Dream Job, e.g., Backend Developer].
+- 💡 Fun fact: [A short, interesting fact about you].
+
+---
+
+<h3 align="center">🛠️ My Tech Stack</h3>
 <div align="center">
-  
-  ### 👋 안녕하세요, [이름]입니다!
-  
-  💻 무언가를 만드는 것을 좋아하는 학생 개발자입니다.
-  
-  🌱 현재 [관심 분야 또는 공부 중인 기술]에 대해 배우고 있습니다.
-  
-  📫 연락은 이메일([your-email@example.com])로 부탁드립니다.
-  
-</div>
-
-<div align="center"> 
-  <h3>🛠️ Tech Stacks</h3>
-  <p><strong>주로 사용하는 기술들입니다.</strong></p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring"/>
   <br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-</div>
-<br>
-
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=transparent" alt="github stats"/>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=transparent" alt="top languages"/>
-  </p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="AWS"/>
 </div>
 
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <h3>📞 Socials</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=HwanKr&show_icons=true&theme=tokyonight" alt="[Your-GitHub-Username]'s GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HwanKr&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</div>
+
+---
+
+<h3 align="center">🤝 Connect with Me</h3>
+<div align="center">
   <a href="mailto:[your-email@example.com]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-  <a href="[Your-Blog-URL]"><img src="https://img.shields.io/badge/Blog-1e90ff?style=for-the-badge&logo=Blogger&logoColor=white"></a>
-  </div>
+  <a href="https://linkedin.com/in/[your-linkedin-id]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+  <a href="[https://your-blog.com]"><img src="https://img.shields.io/badge/Blog-1e90ff?style=for-the-badge&logo=Blogger&logoColor=white"></a>
+</div>
 
 <div align="center">
-  <p>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F[Your-GitHub-Username]&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  </p>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F[Your-GitHub-Username]&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/>
 </div>

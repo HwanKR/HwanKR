@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=450&lines=Hwan's+Dev+Portfolio)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=A9B1D6&center=true&vCenter=true&width=450&lines=Hwan's+Dev+Portfolio)](https://git.io/typing-svg)
 
 ### 👨‍💻 About Me
 - 🎓 I'm a student developer based in [Your City, Country].

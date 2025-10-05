@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=A9B1D6&center=true&vCenter=true&width=450&lines=Welcome+to+Hwan's+GitHub)](https://git.io/typing-svg)
 ### 👨‍💻 About Me
 - 🎓 **Software Convergence, Computer Science & Engineering** @ Yeungnam University
-- 🌱 Main interests: Full-stack Web Development, AI
-- 🚀 Goal: To become a creative Full-stack Developer
+- 🌱 Main interests: **Full-stack Web Development**, **AI**
+- 🚀 Goal: To become a creative **Full-stack Developer**
 
 ---
 

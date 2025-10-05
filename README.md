@@ -1,10 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=A9B1D6&center=true&vCenter=true&width=450&lines=Hwan's+Dev+Portfolio)](https://git.io/typing-svg)
 
 ### 👨‍💻 About Me
-- 🎓 I'm a student developer based in [Your City, Country].
-- 🌱 I’m currently learning everything about [Your Main Interest, e.g., Cloud Computing, AI].
-- 🚀 My goal is to become a proficient [Your Dream Job, e.g., Backend Developer].
-- 💡 Fun fact: [A short, interesting fact about you].
+- 🎓 Software Convergence @ Yeungnam University
+- 🌱 Main interests: Full-stack Web Development, AI
+- 🚀 Goal: To become a creative Full-stack Developer
 
 ---
 
